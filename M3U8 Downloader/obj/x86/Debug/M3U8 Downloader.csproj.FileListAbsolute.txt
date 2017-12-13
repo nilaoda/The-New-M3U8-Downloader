@@ -18,3 +18,18 @@ D:\[源码]M3U8 Downloader[1.0]\M3U8 Downloader\bin\Debug\M3U8 Downloader.pdb
 C:\Users\nilao\Documents\Visual Studio 2015\Projects\[源码]M3U8 Downloader[1.0]\M3U8 Downloader\bin\Debug\M3U8 Downloader.exe.config
 C:\Users\nilao\Documents\Visual Studio 2015\Projects\[源码]M3U8 Downloader[1.0]\M3U8 Downloader\obj\x86\Debug\M3U8 Downloader.exe
 C:\Users\nilao\Documents\Visual Studio 2015\Projects\[源码]M3U8 Downloader[1.0]\M3U8 Downloader\obj\x86\Debug\M3U8 Downloader.pdb
+C:\Users\nilao\Documents\Visual Studio 2015\Projects\[源码]M3U8 Downloader[1.0]\M3U8 Downloader\bin\Debug\M3U8 Downloader.exe
+C:\Users\nilao\Documents\Visual Studio 2015\Projects\[源码]M3U8 Downloader[1.0]\M3U8 Downloader\bin\Debug\M3U8 Downloader.pdb
+C:\Users\nilao\Documents\Visual Studio 2015\Projects\[源码]M3U8 Downloader[1.0]\M3U8 Downloader\obj\x86\Debug\M3U8 Downloader.csprojResolveAssemblyReference.cache
+C:\Users\nilao\Documents\Visual Studio 2015\Projects\[源码]M3U8 Downloader[1.0]\M3U8 Downloader\obj\x86\Debug\M3U8_Downloader.Form1.resources
+C:\Users\nilao\Documents\Visual Studio 2015\Projects\[源码]M3U8 Downloader[1.0]\M3U8 Downloader\obj\x86\Debug\M3U8_Downloader.Properties.Resources.resources
+C:\Users\nilao\Documents\Visual Studio 2015\Projects\[源码]M3U8 Downloader[1.0]\M3U8 Downloader\obj\x86\Debug\M3U8 Downloader.csproj.GenerateResource.Cache
+C:\Users\nilao\Documents\Visual Studio 2017\Projects\[源码]M3U8 Downloader[1.0]\M3U8 Downloader\bin\Debug\M3U8 Downloader.exe.config
+C:\Users\nilao\Documents\Visual Studio 2017\Projects\[源码]M3U8 Downloader[1.0]\M3U8 Downloader\bin\Debug\M3U8 Downloader.exe
+C:\Users\nilao\Documents\Visual Studio 2017\Projects\[源码]M3U8 Downloader[1.0]\M3U8 Downloader\bin\Debug\M3U8 Downloader.pdb
+C:\Users\nilao\Documents\Visual Studio 2017\Projects\[源码]M3U8 Downloader[1.0]\M3U8 Downloader\obj\x86\Debug\M3U8 Downloader.csprojResolveAssemblyReference.cache
+C:\Users\nilao\Documents\Visual Studio 2017\Projects\[源码]M3U8 Downloader[1.0]\M3U8 Downloader\obj\x86\Debug\M3U8_Downloader.Form1.resources
+C:\Users\nilao\Documents\Visual Studio 2017\Projects\[源码]M3U8 Downloader[1.0]\M3U8 Downloader\obj\x86\Debug\M3U8_Downloader.Properties.Resources.resources
+C:\Users\nilao\Documents\Visual Studio 2017\Projects\[源码]M3U8 Downloader[1.0]\M3U8 Downloader\obj\x86\Debug\M3U8 Downloader.csproj.GenerateResource.Cache
+C:\Users\nilao\Documents\Visual Studio 2017\Projects\[源码]M3U8 Downloader[1.0]\M3U8 Downloader\obj\x86\Debug\M3U8 Downloader.exe
+C:\Users\nilao\Documents\Visual Studio 2017\Projects\[源码]M3U8 Downloader[1.0]\M3U8 Downloader\obj\x86\Debug\M3U8 Downloader.pdb
